@@ -5,7 +5,7 @@ class AnthonyByamugisha:
 
     def __init__(self):
         self.name = "Anthony Byamugisha"
-        self.role = "📊 Data & BI Analyst"
+        self.role = "📊 Data Analyst And Scientist"
         self.education = "🎓 BSc Computer Science @ Makerere University (2024–2027)"
         self.location = "🌍 Kampala, Uganda"
         self.focus = [
