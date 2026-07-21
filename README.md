@@ -15,7 +15,6 @@ class AnthonyByamugisha:
             "Threat Detection & Incident Response",
             "SIEM & Log Analysis",
             "Network Security",
-            "Cloud Security"
         ]
 
     # 🚀 Current Journey
@@ -37,17 +36,18 @@ class AnthonyByamugisha:
             "Quick Learner",
             "Cross-functional Collaboration",
             "Data-driven Decision Making"
+            "Data Analysis",
         ]
 
     # 🛠️ Technical Stack
     def tech_stack(self):
         return {
-            "🐍 Languages": [
+            "Programming Languages": [
                 "Python",
                 "SQL",
             ],
             "💻 Operating Systems": [
-                "Linux",
+                "Linux [Parrot OS]",
                 "Windows"
             ],
             "🔐 Cybersecurity": [
