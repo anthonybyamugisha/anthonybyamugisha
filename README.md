@@ -69,6 +69,7 @@ class AnthonyByamugisha:
                 "Django"
             ],
             "🛠️ Tools": [
+                "Microsoft Power Automate",
                 "Git",
                 "GitHub",
                 "VS Code"
