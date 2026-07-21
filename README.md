@@ -95,7 +95,6 @@ me = AnthonyByamugisha()
 ## 🔗 Connect With Me
 
 - 💼 **LinkedIn:** [Anthony Byamugisha](https://www.linkedin.com/in/anthonybyamugisha)
-- 🌐 **Portfolio:** [anthonybyamugishadata-analyst.vercel.app](https://anthonybyamugishadata-analyst.vercel.app/)
 - 🐙 **GitHub:** [anthonybyamugisha](https://github.com/anthonybyamugisha)
 - 📧 **Email:** [byamugishanthony@gmail.com](mailto:byamugishanthony@gmail.com)
 
