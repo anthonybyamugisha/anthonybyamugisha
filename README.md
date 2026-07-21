@@ -1,60 +1,47 @@
 # 👋 Hi, I'm Anthony Byamugisha
 
 ```python
+```python
 class AnthonyByamugisha:
 
     def __init__(self):
         self.name = "Anthony Byamugisha"
-        self.role = "📊 Data Analyst And Scientist"
+        self.role = "🔐 Cybersecurity Enthusiast | Data Analyst"
         self.education = "🎓 BSc Computer Science @ Makerere University (2024–2027)"
         self.location = "🌍 Kampala, Uganda"
+
         self.focus = [
-            "Data Analysis",
-            "Business Intelligence",
-            "Data Visualization",
-            "Predictive Analytics"
+            "Cybersecurity",
+            "Security Operations (SOC)",
+            "Threat Detection & Incident Response",
+            "SIEM & Log Analysis",
+            "Network Security",
+            "Cloud Security"
         ]
 
     # 🚀 Current Journey
     def currently_learning(self):
         return [
-            "Advanced Machine Learning",
-            "Predictive Modeling",
-            "Data Engineering",
-            "Applied AI Systems"
+            "CompTIA Security+ (SY0-701)",
+            "Security Information & Event Management (SIEM)",
+            "Threat Hunting",
+            "Digital Forensics",
+            "Cloud Security",
+            "Applied AI for Cybersecurity"
         ]
 
     # 💡 Core Strengths
     def strengths(self):
         return [
+            "Security Analysis",
+            "Analytical Problem Solving",
+            "Threat Investigation",
             "Quick Learner",
             "Cross-functional Collaboration",
-            "Data Wrangling & Cleaning",
-            "Insight-driven Decision Making"
+            "Data-driven Decision Making"
         ]
+```
 
-    # 🛠️ Technical Stack
-    def tech_stack(self):
-        return {
-            "🐍 Languages": ["Python", "SQL"],
-            "📚 Libraries": ["Pandas", "NumPy", "Matplotlib", "Scikit-Learn", "Django"],
-            "🗄️ Database": ["MySQL"],
-            "📊 BI Tools": ["Excel", "Power BI"],
-            "🛠️ Tools": ["Git", "GitHub"]
-        }
-
-    # 📂 Featured Projects
-    def projects(self):
-        return {
-            "Algomind Hive – Predictive Analytics":
-                "Climate & hive data modeling to predict honey yield and colony health risks",
-
-            "Sales Performance Dashboard":
-                "Interactive KPI dashboard with filtering & drill-down analysis"
-        }
-
-
-me = AnthonyByamugisha()
 ```
 
 ---
